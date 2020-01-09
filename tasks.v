@@ -1,4 +1,4 @@
-// AUM ShREE GANESHAAYA NAMAH||
+// AUM SHREE GANESHAAYA NAMAH||
 // Experiment_1 - Design basic NAND, NOR, NOT (CMOS directly compatible) (>=2 inputs)
 // Experimetn_2 - Design AND, OR, XOR, XNOR ann Full_adder  (>=2 inputs)
 // Experiment_3 - Other combinational logic you may think of

@@ -1,0 +1,5 @@
+time=                   0: 0 + 0 + 0 = 0, carry = 0
+time=                   5: 0 + 1 + 0 = 1, carry = 0
+time=                  10: 1 + 0 + 1 = 0, carry = 0
+time=                  10: 1 + 0 + 1 = 0, carry = 1
+time=                  15: 1 + 1 + 1 = 1, carry = 1
